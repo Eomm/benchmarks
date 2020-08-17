@@ -44,7 +44,7 @@ benchmark [arguments (optional)]
 * __Run:__ Mon Aug 17 00:13:39 UTC 2020
 
 |                          | Version | Router | Requests/s | Latency | Throughput/Mb |
-| :--                      | --:     | :-:    | --:        | --:     |
+| :--                      | --:     | :-:    | --:        | --:     | --:           |
 | polkadot                 | 1.0.0   | ✗      | 60434.4    | 1.54    | 9.45          |
 | fastify                  | 3.2.0   | ✓      | 58104.0    | 1.63    | 9.09          |
 | bare                     | 10.13.0 | ✗      | 53604.8    | 1.78    | 8.38          |
